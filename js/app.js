@@ -11,7 +11,7 @@ let nombre = "Luis";
 let apellido = "Navas";
 let edad = "48";
 let llueve = true;
-let participantes = [" Luis", " Andres", " Junior", " Daniel", " Marta", " Martin"];
+let participantes = [" Luis", " Junior", "Daniel", " Marta", " Martin"];
 
 for(let a=0; a < participantes.length; a++){
     console.log(participantes[a]);
